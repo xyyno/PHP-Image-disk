@@ -1,4 +1,4 @@
-# What is PHPimage　disk
+# What is PHP-image-disk
 　my frist data update test  😏
 
 
@@ -26,5 +26,6 @@ It mainly stores the upload logs and IP addresses of website visitors and upload
 upload favicon.png to the root directory.
 
 # warning ❌
-This project is not rigorously tested for safety！
+This project is not rigorously tested for safety！！！
+Please Do not use it in a production environment.
 
